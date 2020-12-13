@@ -7,7 +7,15 @@
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit355" alt="pragativerma18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit355" alt="Mohit Raj" /> </p>
+
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
+
+[![GitHub followers](https://img.shields.io/github/followers/mohit355.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mohit355?tab=followers)
+
+
+
 
 - 🔭 I’m currently Frontend Developer at [BookVigyapan]()
 - 🌱 I’m currently learning **React**
@@ -18,12 +26,11 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 - ⚡ Fun fact **Tea over anything && Dark is better than light**
 
 ### Tech Stack
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60" title="Bootstrap" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" title="C++"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" title="CSS"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" title="HTML"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" title="JAVASCRIPT"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60" title="MATERIALIZE"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" title="MYSQL"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="60" height="60" title="PYTHON"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" title="REACT.JS"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit355&layout=compact&hide=html" alt="mohit355" /></p>
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60" title="Bootstrap" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" title="C++"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" title="CSS"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" title="HTML"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" title="JAVASCRIPT"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60" title="MATERIALIZE"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" title="MYSQL"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="60" height="60" title="PYTHON"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" title="REACT.JS"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit355&layout=compact&hide=html" alt="mohit355" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit355&show_icons=true" alt="mohit355" /></p>
+
 
 ## Connect with me  
 <div align="center">
