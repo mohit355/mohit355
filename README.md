@@ -28,7 +28,11 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 ### Tech Stack
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60" title="Bootstrap" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" title="C++"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" title="CSS"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" title="HTML"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" title="JAVASCRIPT"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60" title="MATERIALIZE"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" title="MYSQL"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="60" height="60" title="PYTHON"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" title="REACT.JS"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit355&layout=compact&hide=html" alt="mohit355" /></p>
+
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit355&theme=blue-green)
+
+[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohit355&theme=blue-green)](https://github.com/mohit355/github-readme-stats)
 
 
 
