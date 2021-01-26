@@ -34,6 +34,10 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 [![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohit355&theme=blue-green)](https://github.com/mohit355/github-readme-stats)
 
+## Most valuable repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=burger-builder&theme=midnight-purple)](https://github.com/mohit355/burger-builder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=My-Personal-Portfolio&theme=midnight-purple)](https://github.com/mohit355/My-Personal-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=whatsapp&theme=midnight-purple)](https://github.com/mohit355/whatsapp)
 
 
 ## Connect with me  
@@ -47,5 +51,4 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 <a href="https://www.linkedin.com/in/mohit-raj-0b51aa171/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div>  
-  
+</div>
