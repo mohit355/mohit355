@@ -17,8 +17,8 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 
 
-- 🔭 I’m currently Frontend Developer at [BookVigyapan]()
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently Associate Software Developer at MAQ Software.
+- 🌱 I’m am a ReactJs Developer with knowledge of MERN.
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/mohit355)
 - 📝 I regulary write articles on [DEV](https://dev.to/mohit355)
 - 💬 Ask me about **Node.js, React & Open Source**
