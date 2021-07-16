@@ -24,8 +24,15 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 - 📫 How to reach me **mohitraj772002@gmail.com**
 
 ### Tech Stack
+![java](https://user-images.githubusercontent.com/54148372/125886743-a5947609-b59f-4060-af90-b9cdab8e7b4a.png)
+![html](https://user-images.githubusercontent.com/54148372/125886722-dce1a935-b4e1-4213-b4a4-9037d5b1d0bf.png)
+![css](https://user-images.githubusercontent.com/54148372/125886716-7eaf9e8b-61b7-44c4-b2d6-6c08f2d01ca5.png)
+![javascript](https://user-images.githubusercontent.com/54148372/125886741-0620aad6-b3bb-4edc-a5e7-8e8a520df57a.png)
+![reactjs](https://user-images.githubusercontent.com/54148372/125886728-e9762649-0b48-4602-9d3e-b1b1220c789c.png)
+![firebase](https://user-images.githubusercontent.com/54148372/125886732-f0bbfac5-19da-483b-afef-64ad45b14c68.png)
+![redux](https://user-images.githubusercontent.com/54148372/125886736-130d305e-97b7-48da-b5c4-5da7db3e1243.png)
+![mysql](https://user-images.githubusercontent.com/54148372/125886708-287f5626-3ec8-41a8-bb85-5d89e245ff09.png)
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60" title="Bootstrap" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" title="C++"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" title="CSS"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" title="HTML"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" title="JAVASCRIPT"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60" title="MATERIALIZE"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" title="MYSQL"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="60" height="60" title="PYTHON"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" title="REACT.JS"/></p>
 
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit355&theme=blue-green)
