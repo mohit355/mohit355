@@ -29,6 +29,8 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 ![css](https://user-images.githubusercontent.com/54148372/125886716-7eaf9e8b-61b7-44c4-b2d6-6c08f2d01ca5.png)
 ![javascript](https://user-images.githubusercontent.com/54148372/125886741-0620aad6-b3bb-4edc-a5e7-8e8a520df57a.png)
 ![reactjs](https://user-images.githubusercontent.com/54148372/125886728-e9762649-0b48-4602-9d3e-b1b1220c789c.png)
+![image](https://user-images.githubusercontent.com/54148372/131246614-47c3216c-9d1d-47d5-9b46-1d6daea6cd3f.png)
+![image](https://user-images.githubusercontent.com/54148372/131246571-9a36f835-658a-4582-aa3a-b23d6319e4cb.png)
 ![firebase](https://user-images.githubusercontent.com/54148372/125886732-f0bbfac5-19da-483b-afef-64ad45b14c68.png)
 ![redux](https://user-images.githubusercontent.com/54148372/125886736-130d305e-97b7-48da-b5c4-5da7db3e1243.png)
 ![mysql](https://user-images.githubusercontent.com/54148372/125886708-287f5626-3ec8-41a8-bb85-5d89e245ff09.png)
