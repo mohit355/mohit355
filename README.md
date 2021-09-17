@@ -6,48 +6,49 @@
 <p align="center">Enthusiastic <a href="https://mohit-raj-355.web.app/">Web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit355" alt="Mohit Raj" /> </p>
-
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
-
-[![GitHub followers](https://img.shields.io/github/followers/mohit355.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mohit355?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=mohit355&color=brightgreen) [![GitHub followers](https://img.shields.io/github/followers/mohit355.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mohit355?tab=followers)
 
 
+📌 I am **Jaynil Gaglani**, pursuing `B.Tech in Computer Science and Engineering` from *Indian Institute of Information Technology Kalyani*. I am interested in learning new technologies and build exciting real-world projects.
+
+📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. **Self-learning ability** and `passion for my work` are the key factors towards my success.
 
 
-- 🔭 I’m currently a final year student looking for oppurtunity.
-- 🌱 I’m am a ReactJs Developer with knowledge of MERN.
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/mohit355)
-- 💬 Ask me about **Node.js, React & Open Source**
-- 📫 How to reach me **mohitraj772002@gmail.com**
+📌 My technical skills include :
 
-### Tech Stack
-![java](https://user-images.githubusercontent.com/54148372/125886743-a5947609-b59f-4060-af90-b9cdab8e7b4a.png)
-![html](https://user-images.githubusercontent.com/54148372/125886722-dce1a935-b4e1-4213-b4a4-9037d5b1d0bf.png)
-![css](https://user-images.githubusercontent.com/54148372/125886716-7eaf9e8b-61b7-44c4-b2d6-6c08f2d01ca5.png)
-![javascript](https://user-images.githubusercontent.com/54148372/125886741-0620aad6-b3bb-4edc-a5e7-8e8a520df57a.png)
-![reactjs](https://user-images.githubusercontent.com/54148372/125886728-e9762649-0b48-4602-9d3e-b1b1220c789c.png)
-![image](https://user-images.githubusercontent.com/54148372/131246614-47c3216c-9d1d-47d5-9b46-1d6daea6cd3f.png)
-![image](https://user-images.githubusercontent.com/54148372/131246571-9a36f835-658a-4582-aa3a-b23d6319e4cb.png)
-![firebase](https://user-images.githubusercontent.com/54148372/125886732-f0bbfac5-19da-483b-afef-64ad45b14c68.png)
-![redux](https://user-images.githubusercontent.com/54148372/125886736-130d305e-97b7-48da-b5c4-5da7db3e1243.png)
-![mysql](https://user-images.githubusercontent.com/54148372/125886708-287f5626-3ec8-41a8-bb85-5d89e245ff09.png)
+ <!-- - 💻 *Languages* (**`Java, JavaScript, SQL`**)-->
+ - 💻 *Languages*  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/><img align="center" height="30" src="https://img.icons8.com/color/144/000000/sql.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/python.png" />
 
+ - 💻 *Front-End Development* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/bootstrap.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/redux.png"/> 
 
+ - 💻 *Backend Development and Database Management*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/nodejs.png"/> <img align="center" height="30" src="https://user-images.githubusercontent.com/54148372/133832950-54286b43-22c9-4bb0-9ad2-21b5ba3b068e.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/firebase.png"/> <img align="center" height="30" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" /> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
 
+📌 Here's a link to my [Portfolio](https://mohit-raj-355.web.app/)
+
+<hr>
+
+<h1>GitHub Stats </h1>
+<!-- <div align="center"> -->
+
+<!-- </div> -->
+<a href="https://github.com/mohit355?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=mohit355&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Mohit's github stats" /></a>
+<a href="https://github.com/mohit355?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit355&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
+
+[![Mohit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit355&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Mohit's github trophy](https://github-profile-trophy.vercel.app/?username=mohit355&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit355&theme=blue-green)
 
 [![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohit355&theme=blue-green)](https://github.com/mohit355/github-readme-stats)
-
+ -->
 ## Most valuable repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=BookCart-frontend&theme=midnight-purple)](https://github.com/mohit355/BookCart-frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=whatsapp&theme=midnight-purple)](https://github.com/mohit355/whatsapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=DuoMeet-frontend&theme=midnight-purple)](https://github.com/mohit355/DuoMeet-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=My-Personal-Portfolio&theme=midnight-purple)](https://github.com/mohit355/My-Personal-Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=Text-Editor&theme=midnight-purple)](https://github.com/mohit355/Text-Editor)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=DSC-WOW-Tic-Tac-Toe&theme=midnight-purple)](https://github.com/mohit355/DSC-WOW-Tic-Tac-Toe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=moviemix&theme=midnight-purple)](https://github.com/mohit355/moviemix)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=whatsapp&theme=midnight-purple)](https://github.com/mohit355/whatsapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohit355&repo=burger-builder&theme=midnight-purple)](https://github.com/mohit355/burger-builder)
 
 ## Connect with me  
