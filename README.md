@@ -9,7 +9,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 ![Profile views](https://komarev.com/ghpvc/?username=mohit355&color=brightgreen) [![GitHub followers](https://img.shields.io/github/followers/mohit355.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mohit355?tab=followers)
 
 
-📌 I am **Jaynil Gaglani**, pursuing `B.Tech in Computer Science and Engineering` from *Indian Institute of Information Technology Kalyani*. I am interested in learning new technologies and build exciting real-world projects.
+📌 I am **Mohit Raj**, pursuing `B.Tech in Computer Science and Engineering` from *Indian Institute of Information Technology Kalyani*. I am interested in learning new technologies and build exciting real-world projects.
 
 📌 I am `extremely motivated` to constantly develop my skills and *grow professionally*. **Self-learning ability** and `passion for my work` are the key factors towards my success.
 
